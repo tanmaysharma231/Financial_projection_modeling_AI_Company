@@ -1,4 +1,4 @@
-# Finsight - 5-Year Financial Model
+# Financia - 5-Year Financial Model
 
 A full bottom-up financial model built for a SaaS startup that uses AI to generate investor-ready financial projections for early-stage founders.
 
