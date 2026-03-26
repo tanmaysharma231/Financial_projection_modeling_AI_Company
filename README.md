@@ -8,7 +8,7 @@ Built as part of ENTP 5773 (Entrepreneurial Finance) at the University of Utah.
 
 ## What This Models
 
-Finsight is a hybrid SaaS platform targeting startups, accelerators, and venture capital firms. The model covers a 5-year monthly projection from pre-revenue through scale, built from first principles rather than top-down assumptions.
+Financia is a hybrid SaaS platform targeting startups, accelerators, and venture capital firms. The model covers a 5-year monthly projection from pre-revenue through scale, built from first principles rather than top-down assumptions.
 
 **Key outputs:**
 - Reaches operating profitability in Year 4 Q1
