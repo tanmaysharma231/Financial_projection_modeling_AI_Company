@@ -1,5 +1,5 @@
 # Financia - 5-Year Financial Model
-
+NO AI used for building the projection
 A full bottom-up financial model built for a SaaS startup that uses AI to generate investor-ready financial projections for early-stage founders.
 
 Built as part of ENTP 5773 (Entrepreneurial Finance) at the University of Utah.
